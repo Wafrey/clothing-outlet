@@ -2,3 +2,8 @@ body{
     font-family: 'Crimson Pro', serif;
     padding: 20px 50px;
 }
+
+a{
+    text-decoration: none;
+    color: black;
+}
