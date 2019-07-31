@@ -41,8 +41,8 @@ class SignUp extends Component {
         password: '',
         confirmPassword: ''
       });
-    } catch (error) {
-      console.error(error);
+    } catch (err) {
+      console.error(err);
     }
   };
 
