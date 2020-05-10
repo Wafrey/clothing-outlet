@@ -55,6 +55,7 @@ class App extends Component {
             }
           />
         </Switch>
+        {/* TODO: Footer! */}
       </div>
     );
   }
