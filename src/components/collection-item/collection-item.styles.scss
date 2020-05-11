@@ -1,5 +1,5 @@
 .collection-item {
-  width: 22%;
+  width: 22vw;
   display: flex;
   flex-direction: column;
   height: 350px;
@@ -15,7 +15,7 @@
   }
 
   .custom-button {
-    width: 70%;
+    width: 80%;
     opacity: 0.7;
     position: absolute;
     top: 255px;
@@ -28,8 +28,8 @@
     }
 
     .custom-button {
-      display: flex;
       opacity: 0.85;
+      display: flex;
     }
   }
 
