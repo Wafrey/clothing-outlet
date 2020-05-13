@@ -34,7 +34,6 @@ const Header = ({ currentUser, cart }) => (
       )}
       <CartIcon />
     </div>
-    {console.log(cart)}
     {cart ? null : <CartDropdown />}
   </div>
 );
