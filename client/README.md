@@ -10,6 +10,7 @@ Clothing-outlet is small e-commerce platfrom, on which you can browse from cloth
 * Firebase DB
 * Firebase Auth
 * Google Signin
+* Express
 * Stripe Payment
 * Styled with Sass
 
