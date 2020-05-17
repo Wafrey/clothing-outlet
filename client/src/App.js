@@ -12,6 +12,7 @@ import Header from "./components/header/header.component";
 import CheckoutPage from "./pages/checkout/checkout.component";
 import SignInAndSignUpPage from "./pages/sign-in-and-sign-up/sign-in-and-sign-up.component";
 import { GlobalStyle } from "./global.styles";
+import Footer from "./components/footer/footer.component";
 
 class App extends Component {
   unsubscribeFromAuth = null;
@@ -59,7 +60,7 @@ class App extends Component {
             }
           />
         </Switch>
-        {/* TODO: Footer! */}
+        <Footer />
       </div>
     );
   }
